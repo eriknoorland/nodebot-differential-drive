@@ -1,6 +1,6 @@
 {
   "name": "nodebot-differential-drive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A differential drive controller for my NodeJS based robots.",
   "files": [
     "dist"
